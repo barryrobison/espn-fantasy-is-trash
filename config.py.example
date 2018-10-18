@@ -1,0 +1,6 @@
+
+# enter a mapping between your ESPN team id's and names you want displayed
+espn_team_mapping = {
+    1: 'AAA',
+    2: 'BBB',
+}
